@@ -23,8 +23,8 @@ time, mark, audio, video {
    border: 0;
    font-size: 100%;
    font: inherit;
-   /*vertical-align: baseline; 
-     --> TODO: Arthur: j'ai enlevé ça pour l'instant, car ça fait bugger les tableaux avec des images dedans */
+   background-color: #000000;
+   color: #FFFFFF;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -54,10 +54,8 @@ table {
 /* Body */
 
 body {
-   background-color:#FFFFFF;
    font-family:"Trebuchet MS", Arial, Verdana;
    font-size:1em;
-   color:#555555;
    text-align:justify;
 }
 
@@ -112,7 +110,7 @@ li {
    width: 100%;
    padding-top: 20px;
    padding-bottom: 20px;
-   background-color: #94AE62;
+   background-color: red;
    margin-bottom: 50px;
    color: #FFFFFF;  /* TODO: redondant ? */
    text-align: center;
@@ -132,7 +130,7 @@ li {
 
 #menu a:hover {
    border-bottom: 1px solid #ffffff;
-   border-left: 1px solid #728d40;
+   border-left: 1px solid red;
    border-right: 1px solid #e9ffb7;
    padding-left: 9px;
    padding-right: 9px;
@@ -162,7 +160,7 @@ li {
    text-transform: uppercase;
    font-weight: normal;
    border-bottom: 1px solid #eeeeee;
-   color: #728c40;
+   color: red;
    text-align: right;
 }
 
@@ -215,7 +213,7 @@ li {
    margin: 0;
    padding: 0;
    padding-top: 30px;
-   color: #736451;
+   color: red;
    padding-bottom: 5px;
    text-align: left;
    text-decoration: none;
@@ -229,7 +227,7 @@ li {
    font-weight: normal;
    margin: 0;
    padding: 0;
-   color: #000000;
+   color: white;
    border-bottom: 1px solid #eeeeee;
 }
 
@@ -280,7 +278,7 @@ li {
    text-transform: uppercase;
    font-weight: normal;
    border-bottom: 1px solid #eeeeee;
-   color: #728c40;
+   color: red;
    padding-top: 1em;
 }
 
@@ -336,7 +334,7 @@ li {
 } */
 
 #index-tabs .ui-state-active a, #index-tabs .ui-state-active a:link, #index-tabs .ui-state-active a:visited {
-   color: #728C40; /*#A00000;*/
+   color: red; /*#A00000;*/
 }
 
 #index-tabs h1 {
