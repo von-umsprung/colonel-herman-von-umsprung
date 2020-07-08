@@ -1,0 +1,24 @@
+{
+  "name": "colonel-herman-von-umsprung",
+  "homepage": "https://github.com/von-umsprung/colonel-herman-von-umsprung",
+  "authors": [
+    "Colonel Herman Von Umsprung"
+  ],
+  "description": "Herman Von Umsprung est le meilleur",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.*",
+    "jquery-ui": "~1.11.4",
+    "highcharts": "~4.1.9"
+  }
+}

@@ -1,0 +1,14 @@
+
+===================================================================
+Improve README
+
+===================================================================
+
+TODO
+
+-- Supprimer password de config.php
+
+-- Ajouter la description
+
+-- Ajouter contact
+
