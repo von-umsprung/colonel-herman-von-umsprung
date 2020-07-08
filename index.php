@@ -19,6 +19,21 @@
 
 <div id="sidebar">
 
+<?php //******************************************************************** ?>
+<h1>À propos de moi</h1>
+
+<p>Je suis l'un des meilleurs ! Je fais partie d'un groupe extrêmement prestigieux que je vous invite fortement à rejoindre. </p>
+<p>Avec mon meilleur ami, le colonel Gerhard Moeller, nous organisons des plans ingénieux pour nous rendre plus puissants !</p>
+
+
+<h1>Participer à notre communauté</h1>
+
+<div style="text-align:center">
+   <div style="font-weight: bold; border: 2px solid gray;padding:0.5em;margin:0.5em;font-size:110%; background-color: #FFEEEE">
+   <p>NOUVEAU : notre communauté est maintenant aussi ouverte aux étudiants.</p>
+   </div>
+</div>
+
 </center>
 </body>
 </html>
