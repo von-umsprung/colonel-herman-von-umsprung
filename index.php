@@ -40,6 +40,13 @@ Rejoignez-nous sur :
   </td>
 </tr>
 <tr>
+<td align="center" colspan="2">
+   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <img height="65px" src="img/youtube.png">
+      <div style="font-size:12px">Youtube</div>
+   </a>
+   </td>
+</tr>
 </table>
 </div>
 
