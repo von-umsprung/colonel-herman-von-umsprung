@@ -20,6 +20,34 @@
 <div id="sidebar">
 
 <?php //******************************************************************** ?>
+<div class="submenu">
+
+<h1>Réseaux</h1>
+Rejoignez-nous sur :
+<table width="100%">
+<tr>
+  <td align="center">
+    <a href="https://www.facebook.com/MazarsGroup/">
+      <img width="50px" height="50px" src="img/facebook.png">
+	<div style="font-size:12px">Facebook</div>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://twitter.com/MazarsGroup">
+      <img width="50px" height="50px" src="img/twitter.png">
+	<div style="font-size:12px">Twitter</div>
+    </a>
+  </td>
+</tr>
+<tr>
+</table>
+</div>
+
+</div><!--sidebar-->
+
+<div id="mainbar" class="mainbarstyle">
+
+<?php //******************************************************************** ?>
 <h1>À propos de moi</h1>
 
 <p>Je suis l'un des meilleurs ! Je fais partie d'un groupe extrêmement prestigieux que je vous invite fortement à rejoindre. </p>
