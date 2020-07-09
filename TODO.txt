@@ -1,4 +1,3 @@
-Change design
 Add images
 Update organisation members
 Improve wording
