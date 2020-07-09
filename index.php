@@ -69,6 +69,35 @@ Rejoignez-nous sur :
    </div>
 </div>
 
+<p>Rejoignez notre communauté en passant les épreuves d'admission&nbsp;!<br/>
+Vous retrouverez différentes informations dans notre <a href="manuel.php">manuel</a>.
+</p>
+
+
+<?php //******************************************************************** ?>
+<h1>Principe des épreuves d'admission</h1>
+<p>
+Les épreuves couvrent divers aspects culturels et géographiques</p>
+<p>
+<!--Points clés à retenir :-->
+<ul>
+<li>Les candidats rencontreront des membres éminents de notre parti.</li>
+<li>Ils devront renier tout lien avec d'autres sociétés secrètes </li>
+<li>Notamment des liens avec Hubert Bonisseur de la Bath</li>
+<li>Ils montreront leur motivation et leur soif de puissance</li>
+<li>L'esprit d'initiative pour la création de plans machiavéliques est particulièrement attendue !</li>
+</ul>
+</p>
+
+<p>La difficulté des épreuves varie et chaque participant pourra tester ses connaissances.</p>
+
+<?php //******************************************************************** ?>
+
+<?php page_footer(); ?>
+
+</div><!--mainbar-->
+</div><!--content-->
+
 </center>
 </body>
 </html>
