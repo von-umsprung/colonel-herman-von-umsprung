@@ -1,4 +1,3 @@
-Improve wording
 Fix bugs
 Rename Menu
 Change order in index
