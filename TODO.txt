@@ -1,4 +1,3 @@
-Add images
 Update organisation members
 Improve wording
 Fix bugs
