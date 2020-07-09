@@ -49,6 +49,7 @@ function page_menu_full() { ?>
 
 <div class="submenu">
   <a name="menu_item" href="organisation.php">Qui sommes nous ?</a>
+  <a name="menu_item" href="infos_legales.php">Informations légales</a>
 </div>
 
 <?php } ?>
