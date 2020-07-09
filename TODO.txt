@@ -1,4 +1,3 @@
-Update readme
 Remove contacts
 Update instructions
 Test images
