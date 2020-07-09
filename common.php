@@ -37,3 +37,18 @@
 <br/><br/>
 
 <?php } ?>
+<?php //******************************************************************** ?>
+<?php
+function page_menu_full() { ?>
+
+
+<div class="submenu">
+<h1>Menu</h1>
+  <a name="menu_item" href="index.php">Présentation</a>
+</div>
+
+<div class="submenu">
+  <a name="menu_item" href="organisation.php">Qui sommes nous ?</a>
+</div>
+
+<?php } ?>
