@@ -1,3 +1,2 @@
-Add questions
 Remove comments
 Delete unused images
