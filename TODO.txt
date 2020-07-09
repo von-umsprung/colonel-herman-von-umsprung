@@ -1,4 +1,3 @@
-Fix bugs
 Rename Menu
 Change order in index
 Add questions
