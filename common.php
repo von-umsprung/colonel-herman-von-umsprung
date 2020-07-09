@@ -1,8 +1,3 @@
-<?php error_reporting(E_ALL); ?>
-
-<?php /* echo "<pre>"; print_r($_SERVER); echo "</pre>"; */ ?>
-
-<?php //******************************************************************** ?>
 <?php function page_includes() { ?> 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
