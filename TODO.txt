@@ -1,4 +1,3 @@
-Delete useless code
 Remove section
 Change design
 Add images
