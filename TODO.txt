@@ -1,0 +1,17 @@
+Add candidates
+Update readme
+Remove contacts
+Update instructions
+Test images
+Delete useless code
+Remove section
+Change design
+Add images
+Update organisation members
+Improve wording
+Fix bugs
+Rename Menu
+Change order in index
+Add questions
+Remove comments
+Delete unused images
