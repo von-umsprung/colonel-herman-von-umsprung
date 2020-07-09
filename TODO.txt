@@ -1,4 +1,3 @@
-Update organisation members
 Improve wording
 Fix bugs
 Rename Menu
