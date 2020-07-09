@@ -1,4 +1,3 @@
-Remove contacts
 Update instructions
 Test images
 Delete useless code
